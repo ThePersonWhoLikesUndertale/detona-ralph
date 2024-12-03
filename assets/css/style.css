@@ -18,6 +18,10 @@ main {
     border-bottom: 5px solid #ffd700;
 }
 
+.menu-time h2:nth-child(2), .menu-score h2:nth-child(2) {
+    margin-top: 1rem;
+}
+
 .menu-lives {
     display: flex;
     align-items: center;
